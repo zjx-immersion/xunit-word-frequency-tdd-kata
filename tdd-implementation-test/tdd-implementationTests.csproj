@@ -92,7 +92,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="WordFrequencyNumberProcessorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
